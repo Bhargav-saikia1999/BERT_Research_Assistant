@@ -1,1 +1,1 @@
-# Research_Assistant
+# Research_Assistant project using BERT model
